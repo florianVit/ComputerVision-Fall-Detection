@@ -8,7 +8,7 @@ L’objectif est de détecter automatiquement lorsqu’une personne chute, pour 
 
 ## Description
 
-L’ensemble du travail est regroupé dans le notebook [dataset.ipynb](dataset/dataset.ipynb).
+L’ensemble du travail est regroupé dans le notebook [dataset.ipynb](dataset.ipynb).
 
 Ce notebook contient :
 - l’exploration et la préparation du dataset,
@@ -36,4 +36,4 @@ Ce projet a pour but de fournir une **base fonctionnelle et pédagogique** pour 
 - Vision par ordinateur
 
 
-*Pour plus de détails sur l’implémentation et les résultats, [Voir le notebook principal](dataset/dataset.ipynb)*
+*Pour plus de détails sur l’implémentation et les résultats, [Voir le notebook principal](dataset.ipynb)*

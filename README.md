@@ -1,5 +1,5 @@
 # Fall Detection – Computer Vision Project
-** Mathéo STEPHAN & Florian VITOUX**
+**Mathéo STEPHAN & Florian VITOUX**
 
 Ce projet implémente une solution de détection de chutes (fall detection) à partir de vidéos et images en utilisant des techniques de vision par ordinateur.
 

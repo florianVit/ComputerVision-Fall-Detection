@@ -5,7 +5,9 @@ Ce projet implémente une solution de détection de chutes (fall detection) à p
 
 L’objectif est de détecter automatiquement lorsqu’une personne chute, pour des futures applications de surveillance, sécurité et assistance aux personnes par exemple.
 
+Le projet est très efficace sur des images. En revanche, sur des séquences vidéo, la méthode doit encore être améliorée : elle est particulièrement fiable lorsque la caméra est fixe, mais ses performances diminuent lorsque la caméra est mobile (déplacements, zoom, variations d’angle). 
 
+Dans ces conditions, les indicateurs basés sur la position verticale normalisée des articulations et sur le ratio largeur/hauteur de la boîte englobante deviennent plus sensibles aux changements de perspective. Une amélioration consiste à stabiliser la scène ou à utiliser des critères invariants à la caméra (angles du corps, orientation du tronc, vitesse relative).
 ## Description
 
 L’ensemble du travail est regroupé dans le notebook [dataset.ipynb](dataset.ipynb).

@@ -37,3 +37,8 @@ Ce projet a pour but de fournir une **base fonctionnelle et pédagogique** pour 
 
 
 *Pour plus de détails sur l’implémentation et les résultats, [Voir le notebook principal](dataset.ipynb)*
+
+
+![gif](https://github.com/user-attachments/assets/1dcdee0b-9a06-44ed-b381-4b58f9c06264)
+
+
